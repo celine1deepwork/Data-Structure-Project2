@@ -1,0 +1,4 @@
+yalan;mustafa sandal;1002;Rap;1996
+iki keklik;Erkan uğur;1005;türk halk;2000
+dilara;ahmet;1250;türk halk;2001
+celine;mehmet;1009;rap;2002
